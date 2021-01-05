@@ -1,0 +1,5 @@
+/node_modules
+/build
+/public/bundle.js
+.vscode/
+/dev-data
